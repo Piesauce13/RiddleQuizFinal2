@@ -1,5 +1,5 @@
 Easy,What has to be broken before you can use it?,An egg,A mirror,A pencil,A
-Easy,What month of the year has 28 days?,All of them,February,April,B
+Easy,What month of the year has 28 days?,February,All of them,April,B
 Easy,What is full of holes but still holds water?,A sponge,A net,A bucket,A
 Easy,What has four wheels and flies?,A garbage truck,An airplane,A race car,A
 Easy,What has a bottom at the top?,A leg,A hat,A chair,A
